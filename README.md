@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on LMS Platform
+- 🌱 I’m currently learning Javascript/C++/SQL
+- 👯 I’m looking to collaborate on SQL
+- 🤔 I’m looking for help with LMS Platform
+- 💬 Ask me about HTML/CSS/WordPress/Arduino/LEGO EV3
+- 📫 How to reach me/ email me at: moh2661978@gmail.com
 
 <!--
 **moh2661978/moh2661978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
