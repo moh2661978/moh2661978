@@ -1,5 +1,5 @@
 ### Hi there 
-- 😄 Check Out My Portfolio https://moh2661978.wixsite.com/wevidco
+- 😄 Check Out My Portfolio https://moh2661978.wixsite.com/wevidco, https://linktr.ee/MohMahmoud
 - 🔭 I’m currently working on LMS Platform
 - 🌱 I’m currently learning Javascript/C++/SQL
 - 👯 I’m looking to collaborate on SQL
