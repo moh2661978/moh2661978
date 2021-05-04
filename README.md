@@ -1,7 +1,7 @@
 ### Hi there 
 - 😄 Check Out My Portfolio https://moh2661978.wixsite.com/wevidco, and https://linktr.ee/MohMahmoud
 - 🔭 I’m currently working on LMS Platform
-- 🌱 I’m currently learning Javascript/C++/SQL
+- 🌱 I’m currently learning UX Design/Javascript/C++/SQL/Paython
 - 👯 I’m looking to collaborate on SQL
 - 🤔 I’m looking for help with LMS Platform
 - 💬 Ask me about HTML/CSS/WordPress/WIX/GoDaddy/Shopify/Digital MArketing/Arduino/LEGO EV3
