@@ -1,10 +1,10 @@
 ### Hi there 
-- 😄 Check Out My Portfolio https://moh2661978.github.io/PORTFOLIO/
+- 😄 Check Out My Portfolio https://moh2661978.wixsite.com/wevidco
 - 🔭 I’m currently working on LMS Platform
 - 🌱 I’m currently learning Javascript/C++/SQL
 - 👯 I’m looking to collaborate on SQL
 - 🤔 I’m looking for help with LMS Platform
-- 💬 Ask me about HTML/CSS/WordPress/Arduino/LEGO EV3
+- 💬 Ask me about HTML/CSS/WordPress/WIX/GoDaddy/Shopify/Digital MArketing/Arduino/LEGO EV3
 - 📫 How to reach me/ email me at: moh2661978@gmail.com
 
 <!--
