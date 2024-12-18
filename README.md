@@ -1,5 +1,5 @@
 ### Hi there 
-- 😄 Check Out My Portfolio https://fmvertextech.wixsite.com/fmvertextech, https://moh2661978.github.io/PORTFOLIO/, and https://linktr.ee/MohMahmoud
+- 😄 Check Out My Portfolio https://fmvertextech.wixsite.com/fmvertextech, and https://linktr.ee/MohMahmoud
 - 🔭 I’m currently working on LMS Platform
 - 🌱 I’m currently learning UX Design/Javascript/C++/SQL/Paython
 - 👯 I’m looking to collaborate on SQL
