@@ -1,11 +1,15 @@
-### Hi there 
-- 😄 Check Out My Portfolio https://fmvertextech.wixsite.com/fmvertextech, and https://linktr.ee/MohMahmoud
-- 🔭 I’m currently working on LMS Platform
-- 🌱 I’m currently learning UX Design/Javascript/C++/SQL/Paython
-- 👯 I’m looking to collaborate on SQL
-- 🤔 I’m looking for help with LMS Platform
-- 💬 Ask me about HTML/CSS/WordPress/WIX/GoDaddy/Shopify/Digital MArketing/Arduino/LEGO EV3
-- 📫 How to reach me/ email me at: moh2661978@gmail.com
+### Hi there 👋  
+Welcome to my GitHub profile!  
+
+- 🔭 I’m currently working on a Virtual Try-On Clothes App and an LMS Platform.  
+- 🌱 I’m currently learning React, Angular, MongoDB, TensorFlow.js, and advanced JavaScript concepts.  
+- 👯 I’m looking to collaborate on Front-End Development and AI-Powered Web Applications.  
+- 🤔 I’m looking for help with integrating Pose Estimation into e-commerce platforms.  
+- 💬 Ask me about HTML, CSS, JavaScript, WordPress, WIX, Bootstrap, UX Design, and integrating AI into web projects.  
+- 📫 How to reach me: email me at moh2661978@gmail.com or check out my portfolio at [FM Vertex Tech](https://fmvertextech.wixsite.com/fmvertextech) and [Linktree](https://linktr.ee/MohMahmoud).  
+- 😄 Pronouns: He/Him.  
+- ⚡ Fun fact: I love blending creativity with technology to build innovative user experiences!  
+
 
 <!--
 **moh2661978/moh2661978** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
